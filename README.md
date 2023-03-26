@@ -16,7 +16,6 @@ In this project, I used data manipulation skills and dive into the entertainment
 7. Digging deeper
 8. Marking non-feature films
 9. Plotting with color!
-10. What next?
 
 # (see all codes in the python file above
 
@@ -88,9 +87,6 @@ We will then plot the genres and then but mark them with a different color.
 We now have a colors list that we can pass to our scatter plot, which should allow us to visually inspect whether these genres might be responsible for the decline in the average duration of movies.Let's spruce up our plot with some additional axis labels and a new theme with plt.style.use().
 
 ![](https://github.com/Analytical-Hafsah/DatacampProjects/blob/main/DATACAMP/Movie_Duration_by_Year_of_Release_2.png)
-
-
-## 10. What next?
 
 
 # Conclusion 
